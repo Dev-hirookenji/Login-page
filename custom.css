@@ -1,0 +1,9 @@
+.bd-dark,
+.navbar,
+.navbar-dark {
+  background-color: rgba(62, 64, 65, 0.219);
+  background-color: transparent !important;
+}
+.nnav {
+  background-color: rgba(62, 64, 65, 0.219);
+}
